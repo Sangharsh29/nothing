@@ -37,8 +37,8 @@
     },
     "index.ftd": {
       "name": "index.ftd",
-      "checksum": "32532606DDF89B56B42BA173EEAC7F7E9006DEEC07ABF10F6ABE246DC0EC1482",
-      "size": 1190
+      "checksum": "7615F5939112819A3761685E044D9477EC5547FA624F3B3197CB5D0EE6E68808",
+      "size": 40
     },
     "sidebar.ftd": {
       "name": "sidebar.ftd",
@@ -52,5 +52,5 @@
     }
   },
   "zip_url": "https://codeload.github.com/sangharsh29/nothing/zip/refs/heads/main",
-  "checksum": "A9F81B9DB1EA242C4DA036A6D12C89CAB9AF82ED15859C4780E9467BA6A048EC"
+  "checksum": "599B0DAE295899781F99B681D575060B5BE982006D7BC007D0D83F42FC02FAE5"
 }
